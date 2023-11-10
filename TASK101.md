@@ -12,7 +12,7 @@ These tasks are to assess students' theoretical learning of numerical-methods us
 
 `Submission procedure:`
 ```
-- Each task should have a different file (e.g. Task_101.m)
+- Each task should have a different file with the task tag (e.g. 01_Matrix_Manipulation.m)
 - Use github to submit the tasks.
 ```
 
