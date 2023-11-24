@@ -32,7 +32,9 @@ Table 1: Velocity vs. time data.
 
 **The velocity data is approximated by a polynomial as:** 
 
-$ v(t) = a_1t^2 + a_2t + a_3, \ \ 5 <= t <= 12 $
+
+$v(t) = a_1t^2 + a_2t + a_3, \ \ 5 <= t <= 12$
+
 
 
 ### Questions
