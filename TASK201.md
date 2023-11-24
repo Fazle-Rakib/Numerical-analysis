@@ -30,10 +30,12 @@ Table 1: Velocity vs. time data.
 | 8 | 177.2     |
 | 12    | 279.2    |
 
-**The velocity data is approximated by a polynomial as:**
-$$ v(t) = a_1t^2 + a_2t + a_3, \ \ 5 <= t <= 12 $$
+**The velocity data is approximated by a polynomial as:** 
+
+$ v(t) = a_1t^2 + a_2t + a_3, \ \ 5 <= t <= 12 $
 
 
+### Questions
 **_Q1:_** Find the values of $a_1$, $a_1$ and $a_1$ using the Naïve Gauss elimination method. 
 
 **_Q2:_** Find the velocity at $t = 6$ seconds.
